@@ -1,4 +1,4 @@
-# 🚀 TUI File Explorer
+# 🚀 FoxFile- TUI File Explorer
 
 A blazing-fast, feature-rich **Terminal User Interface (TUI)** file explorer built with Python and Textual. Navigate your file system with vim-like keybindings and enjoy rich file previews, smart filtering, and BFS-powered search—all from your terminal.
 
