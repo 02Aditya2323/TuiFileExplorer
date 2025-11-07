@@ -58,7 +58,7 @@ cd TuiFileExplorer
 pip install textual
 
 # Run the file explorer
-python chut.py
+python script.py
 ```
 
 ## ⌨️ Keybindings
@@ -125,7 +125,7 @@ G       # Jump to bottom
 
 ```
 TuiFileExplorer/
-├── chut.py          # Main application
+├── script.py          # Main application
 └── README.md        # This file
 ```
 
